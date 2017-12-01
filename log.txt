@@ -1,0 +1,26 @@
+'gb2312' codec can't encode character '\ufffd' in position 703: illegal multibyte sequence
+
+'gb2312' codec can't encode character '\ufffd' in position 351: illegal multibyte sequence
+
+'gb2312' codec can't encode character '\ufffd' in position 703: illegal multibyte sequence
+
+'gbk' codec can't encode character '\ufffd' in position 156: illegal multibyte sequence
+
+'gb2312' codec can't encode character '\ufffd' in position 365: illegal multibyte sequence
+
+'gb2312' codec can't encode character '\ufffd' in position 727: illegal multibyte sequence
+
+(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'https://www.z4a.net/images/2017/10/07/2a49d26b6c735dcf1.jpg\');" border="0" src="\' at line 1')
+
+(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'https://public.lightpic.info/image/EA00_59B10AFC0.jpg\');" border="0" src="https:\' at line 1')
+
+'gb2312' codec can't encode character '\ufffd' in position 1608: illegal multibyte sequence
+
+(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'https://public.lightpic.info/image/7939_59CF6AB40.jpg\');" border="0" src="https:\' at line 1')
+
+(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'https://public.lightpic.info/image/EDC8_59CA3D220.jpg\');" border="0" src="https:\' at line 1')
+
+(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'https://public.lightpic.info/image/C8FB_59CC587C0.jpg\');" border="0" src="https:\' at line 1')
+
+'gb2312' codec can't encode character '\ufffd' in position 1626: illegal multibyte sequence
+
